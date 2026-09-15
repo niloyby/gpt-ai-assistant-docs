@@ -1,0 +1,97 @@
+name: Build Slayer asset CDN
+
+on:
+  push:
+    branches: [slayer-legend-assets]
+    paths: [.github/workflows/build-slayer-assets.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --quiet pillow requests
+          python - <<'PY'
+          import base64, io, json, re, shutil
+          from pathlib import Path
+          import requests
+          from PIL import Image
+
+          root=Path('slayer-assets')
+          img=root/'images'
+          shutil.rmtree(root, ignore_errors=True)
+          img.mkdir(parents=True, exist_ok=True)
+
+          r=requests.get('https://slayer-legend.pipee.tw/', timeout=30)
+          r.raise_for_status()
+          html=r.text
+
+          def save_webp(raw, path):
+              path=Path(path)
+              path.parent.mkdir(parents=True, exist_ok=True)
+              im=Image.open(io.BytesIO(raw)).convert('RGBA')
+              im.save(path, 'WEBP', lossless=True, method=6)
+
+          def data_obj(name):
+              m=re.search(r'const '+re.escape(name)+r' = (\{.*?\});', html, re.S)
+              if not m:
+                  raise RuntimeError('missing '+name)
+              return json.loads(m.group(1))
+
+          spirits=data_obj('SPIRIT_MAIN_SKILL_ICONS')
+          for key,val in spirits.items():
+              if val.startswith('data:image/'):
+                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'spirits'/f'{key}.webp')
+
+          dishes=data_obj('dishImageMap')
+          for key,val in dishes.items():
+              if val.startswith('data:image/'):
+                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'dishes'/f'{key.lower()}.webp')
+
+          ingredients=data_obj('ingredientIconMap')
+          for idx,(key,val) in enumerate(ingredients.items(),1):
+              if val.startswith('data:image/'):
+                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'ingredients'/f'ingredient-{idx:02d}.webp')
+
+          upstream='https://raw.githubusercontent.com/BenDol/SlayerLegendCDN/main/game-assets/images/'
+          skills={
+            'supersonic':'06_BloodyTornado.png','fulgurous':'05_Swiftness.png','blizzard':'06_Blizard.png','lightning-body':'10_WhiteLightning.png','strong-current':'StrongCurrent.png','meditation':'05_Meditation.png','agile':'09_Tornado.png','earth-will':'08_EarthWill.png','wind-sword':'11_CycloneBlade.png','iron-will':'IronWill.png','speed-sword':'07_StormBlade.png','burning-sword':'08_BurningWeapon_2.png','curved-blade':'09_IceAge 1.png','red-lightning':'04_LightningSwing.png','thunderbolt-slash':'ThunderboltSlash.png','flame-wave':'05_BlazeWave.png','rave':'Rave.png','wrath-of-gods':'06_Supernatural.png','demon-hunt':'05_Earthquake.png','warrior-burn':'10_WarriorBurn.png','hellfire-slash':'02_ExplosionSlash.png','giga-strike':'02_GigaStrike.png','rage-buff':'09_Rage.png','flowing-blade':'08_IceAge.png','pillar-of-fire':'06_ProminenceBurn.png','fire-blast':'04_FireWind_Expert.png','giga-impact':'04_GigaWave.png','mantra':'16_BlazeDance.png'
+          }
+          for key,src in skills.items():
+              rr=requests.get(upstream+'skills/icons/'+src, timeout=30); rr.raise_for_status()
+              save_webp(rr.content, img/'skills'/f'{key}.webp')
+
+          relics={f'relic-{i}':f'icon_artifact_{(12 if i==11 else 11 if i==12 else i):02d}.png' for i in range(1,13)}
+          for key,src in relics.items():
+              rr=requests.get(upstream+'relics/'+src, timeout=30); rr.raise_for_status()
+              save_webp(rr.content, img/'relics'/f'{key}.webp')
+
+          png_codes={249,252,254,255,259}
+          for wid in range(1,82):
+              code=200+wid
+              ext='png' if code in png_codes else 'webp'
+              rr=requests.get(upstream+f'equipment/soul-weapons/sword_{code}.{ext}', timeout=30); rr.raise_for_status()
+              save_webp(rr.content, img/'soul-weapons'/f'soul-{wid:03d}.webp')
+
+          files=list(img.rglob('*.webp'))
+          assert len(spirits)==12
+          assert len(dishes)==63
+          assert len(ingredients)==22
+          assert len(list((img/'skills').glob('*.webp')))==28
+          assert len(list((img/'relics').glob('*.webp')))==12
+          assert len(list((img/'soul-weapons').glob('*.webp')))==81
+          assert len(files)==218, len(files)
+          print('built', len(files), 'assets')
+          PY
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add slayer-assets
+          git commit -m "build: publish Slayer Legend CDN assets"
+          git push
