@@ -19,7 +19,7 @@ jobs:
           set -euo pipefail
           python -m pip install --quiet pillow requests
           python - <<'PY'
-          import base64, io, json, re, shutil
+          import base64, io, re, shutil
           from pathlib import Path
           import requests
           from PIL import Image
@@ -39,26 +39,26 @@ jobs:
               im=Image.open(io.BytesIO(raw)).convert('RGBA')
               im.save(path, 'WEBP', lossless=True, method=6)
 
-          def data_obj(name):
-              m=re.search(r'const '+re.escape(name)+r' = (\{.*?\});', html, re.S)
+          def data_pairs(name):
+              m=re.search(r'const '+re.escape(name)+r' = \{(.*?)\};', html, re.S)
               if not m:
                   raise RuntimeError('missing '+name)
-              return json.loads(m.group(1))
+              pairs=re.findall(r'"([^"]+)"\s*:\s*"(data:image/[^;]+;base64,[A-Za-z0-9+/=]+)"', m.group(1))
+              if not pairs:
+                  raise RuntimeError('empty '+name)
+              return pairs
 
-          spirits=data_obj('SPIRIT_MAIN_SKILL_ICONS')
-          for key,val in spirits.items():
-              if val.startswith('data:image/'):
-                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'spirits'/f'{key}.webp')
+          spirits=data_pairs('SPIRIT_MAIN_SKILL_ICONS')
+          for key,val in spirits:
+              save_webp(base64.b64decode(val.split(',',1)[1]), img/'spirits'/f'{key}.webp')
 
-          dishes=data_obj('dishImageMap')
-          for key,val in dishes.items():
-              if val.startswith('data:image/'):
-                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'dishes'/f'{key.lower()}.webp')
+          dishes=data_pairs('dishImageMap')
+          for key,val in dishes:
+              save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'dishes'/f'{key.lower()}.webp')
 
-          ingredients=data_obj('ingredientIconMap')
-          for idx,(key,val) in enumerate(ingredients.items(),1):
-              if val.startswith('data:image/'):
-                  save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'ingredients'/f'ingredient-{idx:02d}.webp')
+          ingredients=data_pairs('ingredientIconMap')
+          for idx,(key,val) in enumerate(ingredients,1):
+              save_webp(base64.b64decode(val.split(',',1)[1]), img/'recipes'/'ingredients'/f'ingredient-{idx:02d}.webp')
 
           upstream='https://raw.githubusercontent.com/BenDol/SlayerLegendCDN/main/game-assets/images/'
           skills={
@@ -81,9 +81,9 @@ jobs:
               save_webp(rr.content, img/'soul-weapons'/f'soul-{wid:03d}.webp')
 
           files=list(img.rglob('*.webp'))
-          assert len(spirits)==12
-          assert len(dishes)==63
-          assert len(ingredients)==22
+          assert len(spirits)==12, len(spirits)
+          assert len(dishes)==63, len(dishes)
+          assert len(ingredients)==22, len(ingredients)
           assert len(list((img/'skills').glob('*.webp')))==28
           assert len(list((img/'relics').glob('*.webp')))==12
           assert len(list((img/'soul-weapons').glob('*.webp')))==81
