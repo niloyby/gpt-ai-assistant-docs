@@ -1,0 +1,2393 @@
+{
+  "gameVersion": "700.0.3",
+  "format": "lossy WebP with preserved alpha",
+  "totals": {
+    "originalExistingBytes": 1249046,
+    "optimizedExistingBytes": 358604,
+    "newBytes": 31562,
+    "totalBytes": 390166,
+    "count": 238
+  },
+  "files": [
+    {
+      "path": "recipes/dishes/a01.webp",
+      "sourceBytes": 6116,
+      "bytes": 1934,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "036ee86d7c692d1c4ac1ca699a76dfe2278eb43afe6f7a140721dc3356f9ab9c",
+      "source": "original-cdn/recipes/dishes/a01.webp"
+    },
+    {
+      "path": "recipes/dishes/a02.webp",
+      "sourceBytes": 6360,
+      "bytes": 2040,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "ba606cef19b3ec64316957b6f829ef2dfe03b3c742a91c81ea9733e8ad9ee0c4",
+      "source": "original-cdn/recipes/dishes/a02.webp"
+    },
+    {
+      "path": "recipes/dishes/a03.webp",
+      "sourceBytes": 6690,
+      "bytes": 2186,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "e5366e9e9007df0ed358dad0d9b067e243309287a6039f64ae7fd2f6189f87db",
+      "source": "original-cdn/recipes/dishes/a03.webp"
+    },
+    {
+      "path": "recipes/dishes/a04.webp",
+      "sourceBytes": 5724,
+      "bytes": 1768,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "71de4ec2977a81f6b930427e13313d9072acfe08908305ae15bbfc46f7239fc0",
+      "source": "original-cdn/recipes/dishes/a04.webp"
+    },
+    {
+      "path": "recipes/dishes/a05.webp",
+      "sourceBytes": 6472,
+      "bytes": 1894,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "b24ceafa8436f58c0684a91d0d113836e6fad1d2e8ef128c3ebb204bc7f51c82",
+      "source": "original-cdn/recipes/dishes/a05.webp"
+    },
+    {
+      "path": "recipes/dishes/a06.webp",
+      "sourceBytes": 4734,
+      "bytes": 1462,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "ec7471f8cd5031f37b40cb23c74eef6711435fbb753e54894786a42af4337e26",
+      "source": "original-cdn/recipes/dishes/a06.webp"
+    },
+    {
+      "path": "recipes/dishes/a07.webp",
+      "sourceBytes": 4700,
+      "bytes": 1812,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "3942a569146710dd82ca4156462ef7c56494580069eff0ad8d71303b7f85f9cf",
+      "source": "original-cdn/recipes/dishes/a07.webp"
+    },
+    {
+      "path": "recipes/dishes/a08.webp",
+      "sourceBytes": 6188,
+      "bytes": 1990,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "0b75f12a79a5b0b0c30c56a4a456a3803429536ccb27aa54322655ae67d0bc79",
+      "source": "original-cdn/recipes/dishes/a08.webp"
+    },
+    {
+      "path": "recipes/dishes/a09.webp",
+      "sourceBytes": 6718,
+      "bytes": 2192,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "0e44a7f2862a9859aab32d231c26b9dc14207773f289197ed26c8a9758963d6d",
+      "source": "original-cdn/recipes/dishes/a09.webp"
+    },
+    {
+      "path": "recipes/dishes/a10.webp",
+      "sourceBytes": 5836,
+      "bytes": 2108,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "dc33d7354d318eab300e26fb7ee1581381b724c0f87ecf98db9c9baa1e59a5d7",
+      "source": "original-cdn/recipes/dishes/a10.webp"
+    },
+    {
+      "path": "recipes/dishes/a11.webp",
+      "sourceBytes": 6516,
+      "bytes": 2212,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "34450b4c9d6da447cad433de1c66f0653c6791a3d546b494ea103a8fdba1e529",
+      "source": "original-cdn/recipes/dishes/a11.webp"
+    },
+    {
+      "path": "recipes/dishes/a12.webp",
+      "sourceBytes": 6324,
+      "bytes": 1904,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "94dcfe62e6d73a2d6b9e046030a49778959312f9220c1b805028e80d5555654e",
+      "source": "original-cdn/recipes/dishes/a12.webp"
+    },
+    {
+      "path": "recipes/dishes/a13.webp",
+      "sourceBytes": 7068,
+      "bytes": 2204,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "77f8c1a14e900d73593d00d83bf1a478d695e78586ad49ab2b55a2aa563a1cbb",
+      "source": "original-cdn/recipes/dishes/a13.webp"
+    },
+    {
+      "path": "recipes/dishes/a14.webp",
+      "sourceBytes": 5954,
+      "bytes": 1776,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "1581d55cf2c3f0fddbe865c00993c23ea1fd0040307b8643b9f0c9dc5e98bc48",
+      "source": "original-cdn/recipes/dishes/a14.webp"
+    },
+    {
+      "path": "recipes/dishes/a15.webp",
+      "sourceBytes": 5374,
+      "bytes": 1590,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "d45e5542a0f9cb7a3134a51dd222f1042b3df85426f7f4634bb186ab81492dc9",
+      "source": "original-cdn/recipes/dishes/a15.webp"
+    },
+    {
+      "path": "recipes/dishes/a16.webp",
+      "sourceBytes": 5940,
+      "bytes": 1936,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "23e676d360fa451df3d96a3c48c1e728a649f84ffbdd02c4a3fb12a0812f701c",
+      "source": "original-cdn/recipes/dishes/a16.webp"
+    },
+    {
+      "path": "recipes/dishes/a17.webp",
+      "sourceBytes": 6492,
+      "bytes": 2080,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "024adcd859ebfbcda113ff95058707c79fe53fb084c30e0f49dafbc03909436e",
+      "source": "original-cdn/recipes/dishes/a17.webp"
+    },
+    {
+      "path": "recipes/dishes/a18.webp",
+      "sourceBytes": 7168,
+      "bytes": 2190,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "1fe6c45f429734c813ce8e840e886bab1c7125a5ad78fc1e22bc995a6940de3f",
+      "source": "original-cdn/recipes/dishes/a18.webp"
+    },
+    {
+      "path": "recipes/dishes/a19.webp",
+      "sourceBytes": 4484,
+      "bytes": 1418,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "9b51f0e6edb3bca54ec2eb9034a0abbaef8a3b25b5d717e69f57345315c72e12",
+      "source": "original-cdn/recipes/dishes/a19.webp"
+    },
+    {
+      "path": "recipes/dishes/a20.webp",
+      "sourceBytes": 5990,
+      "bytes": 1896,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "e6dc07b9c2ab6c2c5af84693be782743d3881c8c8269b6b2778503232d400d3d",
+      "source": "original-cdn/recipes/dishes/a20.webp"
+    },
+    {
+      "path": "recipes/dishes/a21.webp",
+      "sourceBytes": 7648,
+      "bytes": 2440,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "ca9fae3de8ace76e0ad39c26d2b240be1d807bbbabe09ab13eeaa714d01a5909",
+      "source": "original-cdn/recipes/dishes/a21.webp"
+    },
+    {
+      "path": "recipes/dishes/d01.webp",
+      "sourceBytes": 5356,
+      "bytes": 1858,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "c30383528b7f3bc720504ed2c3cafb1df2e99b40af2473c8fe2b8e6d1a67672b",
+      "source": "original-cdn/recipes/dishes/d01.webp"
+    },
+    {
+      "path": "recipes/dishes/d02.webp",
+      "sourceBytes": 5758,
+      "bytes": 1944,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "b944c4837aea26ef9d686ed6474470ecb882a065dde64c17a40d408d902330b1",
+      "source": "original-cdn/recipes/dishes/d02.webp"
+    },
+    {
+      "path": "recipes/dishes/d03.webp",
+      "sourceBytes": 6254,
+      "bytes": 1976,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "25411cceea2464b25d47cf59a0704ef46effce135317e5634d67f70c38a596f1",
+      "source": "original-cdn/recipes/dishes/d03.webp"
+    },
+    {
+      "path": "recipes/dishes/d04.webp",
+      "sourceBytes": 5684,
+      "bytes": 1892,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "192ee73306c3b940a237febe043c9db67735092977d2065f2f1d79a42c711037",
+      "source": "original-cdn/recipes/dishes/d04.webp"
+    },
+    {
+      "path": "recipes/dishes/d05.webp",
+      "sourceBytes": 3786,
+      "bytes": 1360,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "9d77c165e61dd63801e0884694811a3e91c5b30447e158918c48813e58e087d6",
+      "source": "original-cdn/recipes/dishes/d05.webp"
+    },
+    {
+      "path": "recipes/dishes/d06.webp",
+      "sourceBytes": 5822,
+      "bytes": 1918,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "3d82cd63b2c764acf67b469704ab84e9f24341df0af613a7c0f9862a3f8ef380",
+      "source": "original-cdn/recipes/dishes/d06.webp"
+    },
+    {
+      "path": "recipes/dishes/d07.webp",
+      "sourceBytes": 4624,
+      "bytes": 1778,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "1a5f99b2d8a3c2eaee898da0f987f1d85bbf86de1e917cf0d027dc663cc46c88",
+      "source": "original-cdn/recipes/dishes/d07.webp"
+    },
+    {
+      "path": "recipes/dishes/d08.webp",
+      "sourceBytes": 4268,
+      "bytes": 1360,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "bba30f040699f0c32c9e4ffe303c79bbcc322cba8325d2ba3d5224a9720b1ce6",
+      "source": "original-cdn/recipes/dishes/d08.webp"
+    },
+    {
+      "path": "recipes/dishes/d09.webp",
+      "sourceBytes": 5624,
+      "bytes": 1968,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "7dc39b7a5fe966c87b9a83181e5e1e9d8c134026874bc49dc1e1f2b628dfdc5a",
+      "source": "original-cdn/recipes/dishes/d09.webp"
+    },
+    {
+      "path": "recipes/dishes/d10.webp",
+      "sourceBytes": 5126,
+      "bytes": 1772,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "b6aeacc5c601b258eba0982102e248ec9c3da767ff97de4af6e154ce155b0755",
+      "source": "original-cdn/recipes/dishes/d10.webp"
+    },
+    {
+      "path": "recipes/dishes/d11.webp",
+      "sourceBytes": 5214,
+      "bytes": 1388,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "bd9f32036f599bc0cbefc84c1f509c140a6fb8403b6a541650a44d3eb0f55967",
+      "source": "original-cdn/recipes/dishes/d11.webp"
+    },
+    {
+      "path": "recipes/dishes/d12.webp",
+      "sourceBytes": 5922,
+      "bytes": 1980,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "07a47fc8842f758b1a64a210dbd69e748b2e4b07ebce069e89fe7d7409287beb",
+      "source": "original-cdn/recipes/dishes/d12.webp"
+    },
+    {
+      "path": "recipes/dishes/d13.webp",
+      "sourceBytes": 5226,
+      "bytes": 1642,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "dad1b77c9f38c8222688533ab37e2b5ebe0945cc67e52f556555d05bf5dad248",
+      "source": "original-cdn/recipes/dishes/d13.webp"
+    },
+    {
+      "path": "recipes/dishes/d14.webp",
+      "sourceBytes": 6050,
+      "bytes": 2022,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "21492d118b55327d3d6a259605e60451bd2389ae146a073f45d12cd577a42a57",
+      "source": "original-cdn/recipes/dishes/d14.webp"
+    },
+    {
+      "path": "recipes/dishes/d15.webp",
+      "sourceBytes": 5734,
+      "bytes": 1808,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "33aaf9a611df15d2a7d772f255f2c05f6bab14e616db3082fa24d9c27371fe05",
+      "source": "original-cdn/recipes/dishes/d15.webp"
+    },
+    {
+      "path": "recipes/dishes/d16.webp",
+      "sourceBytes": 6958,
+      "bytes": 2240,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "29bc65ba85413494e4f3aa3b4ec042c4842e65134a06298659b74ec03f4cd5c4",
+      "source": "original-cdn/recipes/dishes/d16.webp"
+    },
+    {
+      "path": "recipes/dishes/d17.webp",
+      "sourceBytes": 6566,
+      "bytes": 2144,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "371253baaa34aa0cf10f10911e8569a52d039d5a3d32fa1dbe9181cc6d319447",
+      "source": "original-cdn/recipes/dishes/d17.webp"
+    },
+    {
+      "path": "recipes/dishes/d18.webp",
+      "sourceBytes": 6262,
+      "bytes": 2000,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "0f16696be0fa8e948a1d98a6619b85033c01612380434d8870cb4d735e85d906",
+      "source": "original-cdn/recipes/dishes/d18.webp"
+    },
+    {
+      "path": "recipes/dishes/d19.webp",
+      "sourceBytes": 5516,
+      "bytes": 1718,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "983f391311436a438c4caf019d99e3aface52b8d4d6d4bbeea164ab9d6ce383f",
+      "source": "original-cdn/recipes/dishes/d19.webp"
+    },
+    {
+      "path": "recipes/dishes/d20.webp",
+      "sourceBytes": 6158,
+      "bytes": 2008,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "e5810ac47f35eab7246150885e7f504c925eb6110dc4fd97c61a18490a070740",
+      "source": "original-cdn/recipes/dishes/d20.webp"
+    },
+    {
+      "path": "recipes/dishes/d21.webp",
+      "sourceBytes": 5592,
+      "bytes": 1890,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "52ccd4eb00be43991332acbbcffca0efdbcd1e3d13506daf0b1c5fd5a6434831",
+      "source": "original-cdn/recipes/dishes/d21.webp"
+    },
+    {
+      "path": "recipes/dishes/m01.webp",
+      "sourceBytes": 4798,
+      "bytes": 1394,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "ed0a91439cd6469d1ecf12f0e00b4b1aafb2430ed90eaf34aec6efdfba3ab9ad",
+      "source": "original-cdn/recipes/dishes/m01.webp"
+    },
+    {
+      "path": "recipes/dishes/m02.webp",
+      "sourceBytes": 7354,
+      "bytes": 2042,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "979c56273ddcb4f7fb99ef1cf76b0080183c2ff90ff7fa7a88cc26953fc0b863",
+      "source": "original-cdn/recipes/dishes/m02.webp"
+    },
+    {
+      "path": "recipes/dishes/m03.webp",
+      "sourceBytes": 6064,
+      "bytes": 1744,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "1274d5b8af383cad5e45ff18ca360e763d43f04a81de9ab8f03803d7a4beb361",
+      "source": "original-cdn/recipes/dishes/m03.webp"
+    },
+    {
+      "path": "recipes/dishes/m04.webp",
+      "sourceBytes": 5402,
+      "bytes": 1768,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "c572dd92e8d1f78a8bfc62999d7f5323088d86720a0fd2b1b8508cf5e1797d9e",
+      "source": "original-cdn/recipes/dishes/m04.webp"
+    },
+    {
+      "path": "recipes/dishes/m05.webp",
+      "sourceBytes": 6374,
+      "bytes": 2134,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "4d7b39a7c455819f9a612c1b1e6c2e900211b3d822b95c09f3f58a46fce0c263",
+      "source": "original-cdn/recipes/dishes/m05.webp"
+    },
+    {
+      "path": "recipes/dishes/m06.webp",
+      "sourceBytes": 5834,
+      "bytes": 1754,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "73b4a750a46c3d6099654878abc0404379992cfb1fcbc8f50cb3cb66f0885ece",
+      "source": "original-cdn/recipes/dishes/m06.webp"
+    },
+    {
+      "path": "recipes/dishes/m07.webp",
+      "sourceBytes": 5524,
+      "bytes": 1796,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "352dc55fe70d7753125cd87796953f7a8e8d9100f34c9f9704d57c65528da06e",
+      "source": "original-cdn/recipes/dishes/m07.webp"
+    },
+    {
+      "path": "recipes/dishes/m08.webp",
+      "sourceBytes": 6308,
+      "bytes": 1724,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "b0b6241237b8a1a302af2acf0c0f162446b9059f089ab981379e13d3c03ea4f4",
+      "source": "original-cdn/recipes/dishes/m08.webp"
+    },
+    {
+      "path": "recipes/dishes/m09.webp",
+      "sourceBytes": 5900,
+      "bytes": 1750,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "2be38ad32bcbda3691154979a799cc06133e6df9982183d4326a11bf845871dc",
+      "source": "original-cdn/recipes/dishes/m09.webp"
+    },
+    {
+      "path": "recipes/dishes/m10.webp",
+      "sourceBytes": 6406,
+      "bytes": 2000,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "a05008848171e3d2a15c815e89c100fdbf8e92ad46170a809dfc1bf17f8d8b2c",
+      "source": "original-cdn/recipes/dishes/m10.webp"
+    },
+    {
+      "path": "recipes/dishes/m11.webp",
+      "sourceBytes": 5288,
+      "bytes": 1448,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "a909686c33731a74010f51d4f1d5d701ec45f19c52d91e8b5c58f0bc5ca512df",
+      "source": "original-cdn/recipes/dishes/m11.webp"
+    },
+    {
+      "path": "recipes/dishes/m12.webp",
+      "sourceBytes": 6142,
+      "bytes": 2058,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "0268e4c8287984444d5062d51b25cf146404129ec7cbab3bac072504a69fba7a",
+      "source": "original-cdn/recipes/dishes/m12.webp"
+    },
+    {
+      "path": "recipes/dishes/m13.webp",
+      "sourceBytes": 5460,
+      "bytes": 1722,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "bc9d7be31d131a80f0eccee29309e528db51a167021debc1dd23c36808ae89a6",
+      "source": "original-cdn/recipes/dishes/m13.webp"
+    },
+    {
+      "path": "recipes/dishes/m14.webp",
+      "sourceBytes": 5456,
+      "bytes": 1754,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "dd881a61c3ba0ae9d4d4eefebd05812cb6538858699b46121f4ed57d7f42d5f9",
+      "source": "original-cdn/recipes/dishes/m14.webp"
+    },
+    {
+      "path": "recipes/dishes/m15.webp",
+      "sourceBytes": 5454,
+      "bytes": 1816,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "c05d17d44e003f0674106379b83e8d767159315c6addb2116d591ccfa7612667",
+      "source": "original-cdn/recipes/dishes/m15.webp"
+    },
+    {
+      "path": "recipes/dishes/m16.webp",
+      "sourceBytes": 6284,
+      "bytes": 1772,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "14b059f37c2b74613b9dbe18d7a3dc7e74a88cef435197976289df9f5ce4fb2a",
+      "source": "original-cdn/recipes/dishes/m16.webp"
+    },
+    {
+      "path": "recipes/dishes/m17.webp",
+      "sourceBytes": 5366,
+      "bytes": 1784,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "7d2217dcbb1a37d79c9d9249e97b79dc005e282d9ef2055e9d58067265a47899",
+      "source": "original-cdn/recipes/dishes/m17.webp"
+    },
+    {
+      "path": "recipes/dishes/m18.webp",
+      "sourceBytes": 6114,
+      "bytes": 2018,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "67fe23920fedcc9268501fbf633f0c79d6a41c0a7a144a8175fa926f195d4f4f",
+      "source": "original-cdn/recipes/dishes/m18.webp"
+    },
+    {
+      "path": "recipes/dishes/m19.webp",
+      "sourceBytes": 5956,
+      "bytes": 1780,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "2dbd5f48704726480ced93bd55cc0875d68cea9d5b98f87c82f57a7ee3488a98",
+      "source": "original-cdn/recipes/dishes/m19.webp"
+    },
+    {
+      "path": "recipes/dishes/m20.webp",
+      "sourceBytes": 3918,
+      "bytes": 1330,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "7dd8c28440c0f7bd04a8e436204b597dba3cde8008a4e7e1d3f18584e9ab031c",
+      "source": "original-cdn/recipes/dishes/m20.webp"
+    },
+    {
+      "path": "recipes/dishes/m21.webp",
+      "sourceBytes": 6804,
+      "bytes": 2240,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "73061bdd48316d413896dad0a2414d377098a2cf11233cb819a5b7067b1776cd",
+      "source": "original-cdn/recipes/dishes/m21.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-01.webp",
+      "sourceBytes": 1804,
+      "bytes": 762,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "8b92910e7cc1a34b84952687ad638caa2f6cbdb07e37737104dde358872c9ab4",
+      "source": "original-cdn/recipes/ingredients/ingredient-01.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-02.webp",
+      "sourceBytes": 1928,
+      "bytes": 876,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "a871c69e5e8f87109a55a274b66b053915097e3c9019abe30b4a0acd968e34ee",
+      "source": "original-cdn/recipes/ingredients/ingredient-02.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-03.webp",
+      "sourceBytes": 2240,
+      "bytes": 932,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "8e9408cc025c162b2ece8ff6265cba7e3f501c8470d1d8efe63fd5c99fca28ce",
+      "source": "original-cdn/recipes/ingredients/ingredient-03.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-04.webp",
+      "sourceBytes": 2258,
+      "bytes": 826,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "f2687393305c6951140edf2790268930be2d3fb5475cbcdc03aa8676cfe212b3",
+      "source": "original-cdn/recipes/ingredients/ingredient-04.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-05.webp",
+      "sourceBytes": 1992,
+      "bytes": 942,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "f7eb5f97af3aa28549707146d91ed47f06944c6b1f1c6d046960f457f1dfdc6b",
+      "source": "original-cdn/recipes/ingredients/ingredient-05.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-06.webp",
+      "sourceBytes": 1550,
+      "bytes": 720,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "21295b1108f679448bed656bde5fe7f5a052af567b454d04aaa33bf6209ef5bc",
+      "source": "original-cdn/recipes/ingredients/ingredient-06.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-07.webp",
+      "sourceBytes": 2086,
+      "bytes": 828,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "2485ff19ee28f46d4b082aa5b3badbaaf47a37a5e688169c19e907e2c245c038",
+      "source": "original-cdn/recipes/ingredients/ingredient-07.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-08.webp",
+      "sourceBytes": 1750,
+      "bytes": 902,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "19099ace7b50cf52933fba66c999f4ad9e2369196a174f4bbebe8aabc7cb6f21",
+      "source": "original-cdn/recipes/ingredients/ingredient-08.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-09.webp",
+      "sourceBytes": 1998,
+      "bytes": 818,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "bfdb19cd71fd83e5e9aed746be1a3c96f386180c99e02a7e52507f1e08a8d329",
+      "source": "original-cdn/recipes/ingredients/ingredient-09.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-10.webp",
+      "sourceBytes": 1928,
+      "bytes": 876,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "a871c69e5e8f87109a55a274b66b053915097e3c9019abe30b4a0acd968e34ee",
+      "source": "original-cdn/recipes/ingredients/ingredient-10.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-11.webp",
+      "sourceBytes": 1762,
+      "bytes": 1010,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "e56f0dc085a3e627bcd6a191120d5a433f0eb26dc94520a3f1754b8316e5bbad",
+      "source": "original-cdn/recipes/ingredients/ingredient-11.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-12.webp",
+      "sourceBytes": 1782,
+      "bytes": 852,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "d225f255643dc90a91a3392b522a26d9550846fee9efe18b404e021db80568ee",
+      "source": "original-cdn/recipes/ingredients/ingredient-12.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-13.webp",
+      "sourceBytes": 2116,
+      "bytes": 1080,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "9bdef0bd36fcb678ab6d9fa29c66f27039d4bf80301d33b14544131b33d69712",
+      "source": "original-cdn/recipes/ingredients/ingredient-13.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-14.webp",
+      "sourceBytes": 1660,
+      "bytes": 780,
+      "width": 32,
+      "height": 32,
+      "quality": 74,
+      "sha256": "5dd7cf21753a926d16406ccdfc6cf925b6a1c5d1fd9b669cdc3cd745fe58a455",
+      "source": "original-cdn/recipes/ingredients/ingredient-14.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-15.webp",
+      "sourceBytes": 1790,
+      "bytes": 602,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "21dbac31276a047983c26e8fccda028a05f2f038ed6df795264d74588c73b4b1",
+      "source": "original-cdn/recipes/ingredients/ingredient-15.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-16.webp",
+      "sourceBytes": 1472,
+      "bytes": 520,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "7a2656b64557a9e71bcf2388709752e8cc2de20781ca34dd73255a97941eba0d",
+      "source": "original-cdn/recipes/ingredients/ingredient-16.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-17.webp",
+      "sourceBytes": 2000,
+      "bytes": 660,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "1f89a967528383996300b32e50ae7cd4b8803b4e29548efbfa2c97ef7074af7d",
+      "source": "original-cdn/recipes/ingredients/ingredient-17.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-18.webp",
+      "sourceBytes": 3344,
+      "bytes": 1542,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "9eddcee9f2cf69347899837adefabbe67ebb941382ea9ae760f56cb9376814b0",
+      "source": "original-cdn/recipes/ingredients/ingredient-18.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-19.webp",
+      "sourceBytes": 1440,
+      "bytes": 568,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "ee893b40a7779f2933c8b842d1843fb4af3ea2425ac5558403d94eb3eef27e2f",
+      "source": "original-cdn/recipes/ingredients/ingredient-19.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-20.webp",
+      "sourceBytes": 1404,
+      "bytes": 486,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "694eef3f5e3ca6690ee5c24148a2a391abacc53d9bf069736ae5a1c5375ebb09",
+      "source": "original-cdn/recipes/ingredients/ingredient-20.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-21.webp",
+      "sourceBytes": 2290,
+      "bytes": 1076,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "04fc352578fbd2d468895511d2245a17148553d3a82fa9ff1a0864e705a23163",
+      "source": "original-cdn/recipes/ingredients/ingredient-21.webp"
+    },
+    {
+      "path": "recipes/ingredients/ingredient-22.webp",
+      "sourceBytes": 2380,
+      "bytes": 1132,
+      "width": 48,
+      "height": 48,
+      "quality": 74,
+      "sha256": "16d70e3498cff458c3e035541dc139d83b5034c6c7186cbb74bc65571413b570",
+      "source": "original-cdn/recipes/ingredients/ingredient-22.webp"
+    },
+    {
+      "path": "relics/relic-1.webp",
+      "sourceBytes": 576,
+      "bytes": 576,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "e5d638059469147ec93ee3c666134c6fddbb3dab642f32554d5d3c56783f7a9d",
+      "source": "original-cdn/relics/relic-1.webp"
+    },
+    {
+      "path": "relics/relic-10.webp",
+      "sourceBytes": 656,
+      "bytes": 656,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "e7e15f927c9d5d1abcb3f70930fd4c9d3dd7e1d5f7aeca772993870762f8d934",
+      "source": "original-cdn/relics/relic-10.webp"
+    },
+    {
+      "path": "relics/relic-11.webp",
+      "sourceBytes": 738,
+      "bytes": 738,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "bc792325f609278c9264f8ea35b5e751d81ee5f86e54af41f285bce0645ea6ed",
+      "source": "original-cdn/relics/relic-11.webp"
+    },
+    {
+      "path": "relics/relic-12.webp",
+      "sourceBytes": 580,
+      "bytes": 580,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "16b7654ae168fb0610526d7721665d7841e368def0d02edc77e3e3e221bf6e2f",
+      "source": "original-cdn/relics/relic-12.webp"
+    },
+    {
+      "path": "relics/relic-2.webp",
+      "sourceBytes": 756,
+      "bytes": 756,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "eb040118d1a6cf53f57e2089a7d882daf98d1cc6a45e20cf62a1f16774b1b8b0",
+      "source": "original-cdn/relics/relic-2.webp"
+    },
+    {
+      "path": "relics/relic-3.webp",
+      "sourceBytes": 950,
+      "bytes": 950,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "a4deae7fce599dfd4bd67b7139f9b460a15cd4413a89d1df6c7eeaab99c7f078",
+      "source": "original-cdn/relics/relic-3.webp"
+    },
+    {
+      "path": "relics/relic-4.webp",
+      "sourceBytes": 672,
+      "bytes": 672,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "0405719adfde3859c56cf30078d9778916fdd66d7e41d376b97a4f1525808200",
+      "source": "original-cdn/relics/relic-4.webp"
+    },
+    {
+      "path": "relics/relic-5.webp",
+      "sourceBytes": 606,
+      "bytes": 606,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "d8cd4320df122abd449b09f1471e7bba434bee7bb146397cb5661c89324d7518",
+      "source": "original-cdn/relics/relic-5.webp"
+    },
+    {
+      "path": "relics/relic-6.webp",
+      "sourceBytes": 386,
+      "bytes": 386,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "db1ea5345f5e4255c0204910d25b88405328c4a5133df9a7861ebb171c516131",
+      "source": "original-cdn/relics/relic-6.webp"
+    },
+    {
+      "path": "relics/relic-7.webp",
+      "sourceBytes": 492,
+      "bytes": 492,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "31ef21b43305387aaebf1baa23e0084aaeab81fe2978b5c7e0c61ae6aad5e691",
+      "source": "original-cdn/relics/relic-7.webp"
+    },
+    {
+      "path": "relics/relic-8.webp",
+      "sourceBytes": 710,
+      "bytes": 710,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "8ed6ff318a7bbb376ceb810c46bbe504242040ca93ae8a9f24946e6a010510c4",
+      "source": "original-cdn/relics/relic-8.webp"
+    },
+    {
+      "path": "relics/relic-9.webp",
+      "sourceBytes": 830,
+      "bytes": 830,
+      "width": 64,
+      "height": 64,
+      "quality": "retained",
+      "sha256": "38cc297e428b524f4a6d27e0e2c5fab0301b4b3376f6b9639047f57e85737bb5",
+      "source": "original-cdn/relics/relic-9.webp"
+    },
+    {
+      "path": "skills/agile.webp",
+      "sourceBytes": 1194,
+      "bytes": 1194,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "6a5d1b741f41d99ccdce854351d8b895ac2f058267d656b843f546aaa788bafc",
+      "source": "original-cdn/skills/agile.webp"
+    },
+    {
+      "path": "skills/blizzard.webp",
+      "sourceBytes": 960,
+      "bytes": 960,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "493d89b25a47d4479114baedb9e307359efde2836194c44fb8a52d3428b85904",
+      "source": "original-cdn/skills/blizzard.webp"
+    },
+    {
+      "path": "skills/burning-sword.webp",
+      "sourceBytes": 1404,
+      "bytes": 1404,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "66ab9cfcfe21771446b844d025da1cbaadde13e2a1341d155ca705d143eff05c",
+      "source": "original-cdn/skills/burning-sword.webp"
+    },
+    {
+      "path": "skills/curved-blade.webp",
+      "sourceBytes": 770,
+      "bytes": 770,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "dd0f7759b9cd1d3deb470b014fd28e457c5fbb2c80b86503e902f743fa92511f",
+      "source": "original-cdn/skills/curved-blade.webp"
+    },
+    {
+      "path": "skills/demon-hunt.webp",
+      "sourceBytes": 1320,
+      "bytes": 1320,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "7b589bafde96294acb429aa1f0724c75a7032bda3aad3c30db37a29f80586fed",
+      "source": "original-cdn/skills/demon-hunt.webp"
+    },
+    {
+      "path": "skills/earth-will.webp",
+      "sourceBytes": 1234,
+      "bytes": 1234,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "8a69ab383146cc26ed00603367cb95494b032cbd8b4f5b3b78f91d7668c4b6fe",
+      "source": "original-cdn/skills/earth-will.webp"
+    },
+    {
+      "path": "skills/fire-blast.webp",
+      "sourceBytes": 1098,
+      "bytes": 1098,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "320d1dc7d19e5ea0b583141c127cd0b6468cfc0726972ba755aebeaf2050f0e8",
+      "source": "original-cdn/skills/fire-blast.webp"
+    },
+    {
+      "path": "skills/flame-wave.webp",
+      "sourceBytes": 1072,
+      "bytes": 1072,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "da59faa4d2525ec0b94cec74d57a81335273392bfd26238cb35906a1740aeecd",
+      "source": "original-cdn/skills/flame-wave.webp"
+    },
+    {
+      "path": "skills/flowing-blade.webp",
+      "sourceBytes": 1188,
+      "bytes": 1188,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "9a3ca80680706bc588600c0fd8fcb0ff23a4c182d0c09a877278eefcb9f4ba30",
+      "source": "original-cdn/skills/flowing-blade.webp"
+    },
+    {
+      "path": "skills/fulgurous.webp",
+      "sourceBytes": 1616,
+      "bytes": 1616,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "ca6b1c873c33e1a3cc24e843116babeb8b03834b789eeaa5eeac9bef96e6efe3",
+      "source": "original-cdn/skills/fulgurous.webp"
+    },
+    {
+      "path": "skills/giga-impact.webp",
+      "sourceBytes": 1540,
+      "bytes": 1540,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "6d67b1fe7671807039dcaec538425d35b12cb9f9ad7f9d3a21684059edf42612",
+      "source": "original-cdn/skills/giga-impact.webp"
+    },
+    {
+      "path": "skills/giga-strike.webp",
+      "sourceBytes": 1248,
+      "bytes": 1248,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "bef0e780c0a923a0da6134d5996d6ff883f809a9ae1d66bb2f426043616f3707",
+      "source": "original-cdn/skills/giga-strike.webp"
+    },
+    {
+      "path": "skills/hellfire-slash.webp",
+      "sourceBytes": 1314,
+      "bytes": 1314,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "065d3f1082efd9c9ff3045b3fca3429ff2d60a148725dd40c047c824ed485e72",
+      "source": "original-cdn/skills/hellfire-slash.webp"
+    },
+    {
+      "path": "skills/iron-will.webp",
+      "sourceBytes": 952,
+      "bytes": 952,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "db1448364fd985b07f2c4eacd24ebd94fd8bbe8e8afd241bbd1b73b07457a4d7",
+      "source": "original-cdn/skills/iron-will.webp"
+    },
+    {
+      "path": "skills/lightning-body.webp",
+      "sourceBytes": 1402,
+      "bytes": 1402,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "08f1337bc41171e39f1f748f7c9291839280bb4ce2de9460c22ced7f5882e29e",
+      "source": "original-cdn/skills/lightning-body.webp"
+    },
+    {
+      "path": "skills/mantra.webp",
+      "sourceBytes": 1502,
+      "bytes": 1502,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "267e01332b60b0965e0da36fa78aefa218ca9baa1507c15929f20a3d0d86efa1",
+      "source": "original-cdn/skills/mantra.webp"
+    },
+    {
+      "path": "skills/meditation.webp",
+      "sourceBytes": 1320,
+      "bytes": 1320,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "92e22f6cffd6eec40b054b34b178d61ee79a08ae4cea02a53014cd6b8659ecef",
+      "source": "original-cdn/skills/meditation.webp"
+    },
+    {
+      "path": "skills/pillar-of-fire.webp",
+      "sourceBytes": 1176,
+      "bytes": 1176,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "181e833c93eb7cdb6d8ce2c9b3e4b9444845ce45587ed42c4e94c8bf9628d0a7",
+      "source": "original-cdn/skills/pillar-of-fire.webp"
+    },
+    {
+      "path": "skills/rage-buff.webp",
+      "sourceBytes": 1398,
+      "bytes": 1398,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "5fc5d5211a175f04a666f1e6eb00ca0b2a702d48506d439b02489fa1bb580329",
+      "source": "original-cdn/skills/rage-buff.webp"
+    },
+    {
+      "path": "skills/rave.webp",
+      "sourceBytes": 10696,
+      "bytes": 3492,
+      "width": 125,
+      "height": 128,
+      "quality": 72,
+      "sha256": "fd234c542287a5c4d7105903f68ea35a0611d55b0e1993c49ae72df1670ba33d",
+      "source": "original-cdn/skills/rave.webp"
+    },
+    {
+      "path": "skills/red-lightning.webp",
+      "sourceBytes": 1150,
+      "bytes": 1150,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "04350ac29929f7503bf50b3c5b20f46fc42e2c81156319b57bde72650ab7cc99",
+      "source": "original-cdn/skills/red-lightning.webp"
+    },
+    {
+      "path": "skills/speed-sword.webp",
+      "sourceBytes": 1228,
+      "bytes": 1228,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "b75e3d6a735b7f771e294ed17dca7e4b8fd81ebc5a9c780c62d758ef1a37f94b",
+      "source": "original-cdn/skills/speed-sword.webp"
+    },
+    {
+      "path": "skills/strong-current.webp",
+      "sourceBytes": 1710,
+      "bytes": 1710,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "db747eb66365f10a2f2f674425a79a2f986e52a29694b760c125ac8a998cfa5f",
+      "source": "original-cdn/skills/strong-current.webp"
+    },
+    {
+      "path": "skills/supersonic.webp",
+      "sourceBytes": 1450,
+      "bytes": 1450,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "49314cfe91373cb9aad32155f0d5aea2bc7b351bd9dad6582fdc6f1f6142eeb0",
+      "source": "original-cdn/skills/supersonic.webp"
+    },
+    {
+      "path": "skills/thunderbolt-slash.webp",
+      "sourceBytes": 822,
+      "bytes": 822,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "6d104ba2acccac912325287195def2abe41db9f5d2cc6a4cb97d76264544b10d",
+      "source": "original-cdn/skills/thunderbolt-slash.webp"
+    },
+    {
+      "path": "skills/warrior-burn.webp",
+      "sourceBytes": 1410,
+      "bytes": 1410,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "230f47dc173bc2c1ba585228764c79f165eea1769f5d4c835d00161efe0be7bd",
+      "source": "original-cdn/skills/warrior-burn.webp"
+    },
+    {
+      "path": "skills/wind-sword.webp",
+      "sourceBytes": 1594,
+      "bytes": 1594,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "0491d6797308428fce900e979b4947bb34272d5a448e52def42e5779c3a71517",
+      "source": "original-cdn/skills/wind-sword.webp"
+    },
+    {
+      "path": "skills/wrath-of-gods.webp",
+      "sourceBytes": 1240,
+      "bytes": 1240,
+      "width": 128,
+      "height": 128,
+      "quality": "retained",
+      "sha256": "f7326f77abf417acc2980a1352515af19d0e7ac045524f5b81d02871fc18dd2c",
+      "source": "original-cdn/skills/wrath-of-gods.webp"
+    },
+    {
+      "path": "soul-weapons/soul-001.webp",
+      "sourceBytes": 4580,
+      "bytes": 1466,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "a55a8ba4fdca337aa94f605c5a611d029aa0a238dfc585184f27e08a2adf088e",
+      "source": "original-cdn/soul-weapons/soul-001.webp"
+    },
+    {
+      "path": "soul-weapons/soul-002.webp",
+      "sourceBytes": 6788,
+      "bytes": 1318,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "36e7885e520d39280f3c27145be4e9fda062af216418c4b77298618a1c5f3452",
+      "source": "original-cdn/soul-weapons/soul-002.webp"
+    },
+    {
+      "path": "soul-weapons/soul-003.webp",
+      "sourceBytes": 5180,
+      "bytes": 1190,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "cba5f1f24718eda8520d375bbe4da67cc52e14dc24d6b94e14756faae6beec7c",
+      "source": "original-cdn/soul-weapons/soul-003.webp"
+    },
+    {
+      "path": "soul-weapons/soul-004.webp",
+      "sourceBytes": 4488,
+      "bytes": 1256,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "5266e2fa45409f238dcbe18b30d85a8416bf21623693cf44e12f22e4b3e97bc3",
+      "source": "original-cdn/soul-weapons/soul-004.webp"
+    },
+    {
+      "path": "soul-weapons/soul-005.webp",
+      "sourceBytes": 5780,
+      "bytes": 1316,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "80266fa6a7710b03820eef083c7573bbad8e04a8b3808dd617684ac5ef9a961c",
+      "source": "original-cdn/soul-weapons/soul-005.webp"
+    },
+    {
+      "path": "soul-weapons/soul-006.webp",
+      "sourceBytes": 5892,
+      "bytes": 1930,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "0b95bc79684ffce80025176e8fad499d165bb966e398c1ee1365ad48d7f4951f",
+      "source": "original-cdn/soul-weapons/soul-006.webp"
+    },
+    {
+      "path": "soul-weapons/soul-007.webp",
+      "sourceBytes": 4916,
+      "bytes": 1096,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "112bbda4128059e6160dbf0e56eef3cad8d506c6fe122576ffa8c35365b5ac08",
+      "source": "original-cdn/soul-weapons/soul-007.webp"
+    },
+    {
+      "path": "soul-weapons/soul-008.webp",
+      "sourceBytes": 2768,
+      "bytes": 1532,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "3f3af8d5eba11ddff0a35eb74d8f0411800482e1b678b5da96563fdd451ec165",
+      "source": "original-cdn/soul-weapons/soul-008.webp"
+    },
+    {
+      "path": "soul-weapons/soul-009.webp",
+      "sourceBytes": 5426,
+      "bytes": 1444,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "9dea140e392a43bcea27bf33c58e13b67a526c0cda666c968a2d36c3a910003e",
+      "source": "original-cdn/soul-weapons/soul-009.webp"
+    },
+    {
+      "path": "soul-weapons/soul-010.webp",
+      "sourceBytes": 5222,
+      "bytes": 1516,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "a4f12c11496f4d8e1ef3b8142ce0558520a36444aaab499788bcad68a6032ec2",
+      "source": "original-cdn/soul-weapons/soul-010.webp"
+    },
+    {
+      "path": "soul-weapons/soul-011.webp",
+      "sourceBytes": 5380,
+      "bytes": 1618,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "286cef3ad538bb8075caddf3a6813f51dde5e68c1539e47d3ebe2327c8cca0e5",
+      "source": "original-cdn/soul-weapons/soul-011.webp"
+    },
+    {
+      "path": "soul-weapons/soul-012.webp",
+      "sourceBytes": 4730,
+      "bytes": 1300,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "ee4020482e94d35ee159b7ea57f9a33618fe3d6a9e6bc181190d8a299f41ada9",
+      "source": "original-cdn/soul-weapons/soul-012.webp"
+    },
+    {
+      "path": "soul-weapons/soul-013.webp",
+      "sourceBytes": 4686,
+      "bytes": 1632,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "5607aaa895ac29d8d0799c731533234881d186528c64edbad4537fcc05fa5b6d",
+      "source": "original-cdn/soul-weapons/soul-013.webp"
+    },
+    {
+      "path": "soul-weapons/soul-014.webp",
+      "sourceBytes": 5418,
+      "bytes": 1404,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "e19fd94085530fa3f221aca3439ec2778d615c1722e3aa01d99efa80cd11f323",
+      "source": "original-cdn/soul-weapons/soul-014.webp"
+    },
+    {
+      "path": "soul-weapons/soul-015.webp",
+      "sourceBytes": 6012,
+      "bytes": 1804,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "13cd05fb6a1731ab3e2bfed9f36c0a3e134c390fd10c21c6c6728c514d93cf98",
+      "source": "original-cdn/soul-weapons/soul-015.webp"
+    },
+    {
+      "path": "soul-weapons/soul-016.webp",
+      "sourceBytes": 5500,
+      "bytes": 1666,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "8459c377582d7cce42d57b8593ad6c906e332a4449d3c3242c5536877b28f768",
+      "source": "original-cdn/soul-weapons/soul-016.webp"
+    },
+    {
+      "path": "soul-weapons/soul-017.webp",
+      "sourceBytes": 6086,
+      "bytes": 1666,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "4e5771d319b7a335766c6a02b617eb1e5f7e1529715887a8809d6bf88d66f204",
+      "source": "original-cdn/soul-weapons/soul-017.webp"
+    },
+    {
+      "path": "soul-weapons/soul-018.webp",
+      "sourceBytes": 5522,
+      "bytes": 1420,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "58ef3eb0133966372b9d4bf98490224db09220c0781f501d2de0434a0463741d",
+      "source": "original-cdn/soul-weapons/soul-018.webp"
+    },
+    {
+      "path": "soul-weapons/soul-019.webp",
+      "sourceBytes": 2908,
+      "bytes": 1384,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "430f5af175812bef63d32a221c54639eb98e1fd6a91714130d31a3a5c5c2f9bc",
+      "source": "original-cdn/soul-weapons/soul-019.webp"
+    },
+    {
+      "path": "soul-weapons/soul-020.webp",
+      "sourceBytes": 4444,
+      "bytes": 1584,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "217a9027c7f1c343b975dd44c24c0ff177e8ab2d0af2c200b2eee5c685917206",
+      "source": "original-cdn/soul-weapons/soul-020.webp"
+    },
+    {
+      "path": "soul-weapons/soul-021.webp",
+      "sourceBytes": 3792,
+      "bytes": 1054,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "c9f0dffc1da206b6e16e49456a992b38f5debbb35e96d4b21d8b8a713542e578",
+      "source": "original-cdn/soul-weapons/soul-021.webp"
+    },
+    {
+      "path": "soul-weapons/soul-022.webp",
+      "sourceBytes": 5494,
+      "bytes": 1726,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "32faf1c9734337631d4501b38c5e3f04016861cc59b1be5b3876f25356bbc2e1",
+      "source": "original-cdn/soul-weapons/soul-022.webp"
+    },
+    {
+      "path": "soul-weapons/soul-023.webp",
+      "sourceBytes": 9542,
+      "bytes": 1750,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "4a59ff1ec413dca7ea12740ffbc22c420d2b4f9d828c8beb54259bb3386c3735",
+      "source": "original-cdn/soul-weapons/soul-023.webp"
+    },
+    {
+      "path": "soul-weapons/soul-024.webp",
+      "sourceBytes": 5206,
+      "bytes": 950,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "a58cb4cc87f5a78ae682121c24f4ba3648477a93cd7dd5f51127c00b1505fe94",
+      "source": "original-cdn/soul-weapons/soul-024.webp"
+    },
+    {
+      "path": "soul-weapons/soul-025.webp",
+      "sourceBytes": 7498,
+      "bytes": 1912,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "5d6f04a382ff85fe3a87611839df88a7b424ebff689c4aab6411359a51d1f271",
+      "source": "original-cdn/soul-weapons/soul-025.webp"
+    },
+    {
+      "path": "soul-weapons/soul-026.webp",
+      "sourceBytes": 6324,
+      "bytes": 1682,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "9e21abdd50db6d007e04b388e13ceebbeff8972992cb47b07d384ea710e8946b",
+      "source": "original-cdn/soul-weapons/soul-026.webp"
+    },
+    {
+      "path": "soul-weapons/soul-027.webp",
+      "sourceBytes": 3742,
+      "bytes": 1294,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "ac5c71d363bb28ceb6ed367b335ce61d6c30a86c4d136df692ad26a9542ca390",
+      "source": "original-cdn/soul-weapons/soul-027.webp"
+    },
+    {
+      "path": "soul-weapons/soul-028.webp",
+      "sourceBytes": 7456,
+      "bytes": 1674,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "60a74a49ab7242ac543a1f770299af264656adc1490666a67c46d0971f6912e4",
+      "source": "original-cdn/soul-weapons/soul-028.webp"
+    },
+    {
+      "path": "soul-weapons/soul-029.webp",
+      "sourceBytes": 7132,
+      "bytes": 1872,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "8df54546450fd6d47503e687e31c7dd7228847fadf0a050112329f9d5ccc5aad",
+      "source": "original-cdn/soul-weapons/soul-029.webp"
+    },
+    {
+      "path": "soul-weapons/soul-030.webp",
+      "sourceBytes": 5760,
+      "bytes": 1614,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "a3db117cd0db767921401406d05709ee7241105ffd089bdaa9e3a87ac8748a2a",
+      "source": "original-cdn/soul-weapons/soul-030.webp"
+    },
+    {
+      "path": "soul-weapons/soul-031.webp",
+      "sourceBytes": 6650,
+      "bytes": 2022,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "36b4f141b115bb3eae22cc780eb2002151e5e652011eb7c0a37bd9507da45d7c",
+      "source": "original-cdn/soul-weapons/soul-031.webp"
+    },
+    {
+      "path": "soul-weapons/soul-032.webp",
+      "sourceBytes": 6650,
+      "bytes": 1690,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "6403229b6b0cec2f946f3fa31e7e82646d2bb914b27d124b9bb61bc5858f7f8f",
+      "source": "original-cdn/soul-weapons/soul-032.webp"
+    },
+    {
+      "path": "soul-weapons/soul-033.webp",
+      "sourceBytes": 6300,
+      "bytes": 1120,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "592d4c651713799bacb48867116ddef1c4988a86dc71115116090ca8959df278",
+      "source": "original-cdn/soul-weapons/soul-033.webp"
+    },
+    {
+      "path": "soul-weapons/soul-034.webp",
+      "sourceBytes": 8016,
+      "bytes": 2114,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "e3d25d40030ccc2f3d5c91f4f4188bf7b260d85bf39c8ee7a32e62434c21a558",
+      "source": "original-cdn/soul-weapons/soul-034.webp"
+    },
+    {
+      "path": "soul-weapons/soul-035.webp",
+      "sourceBytes": 6876,
+      "bytes": 1742,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "91e80d3e5a3e717a71db19311eebac4e34728db2157161258d80f6fd851e1d21",
+      "source": "original-cdn/soul-weapons/soul-035.webp"
+    },
+    {
+      "path": "soul-weapons/soul-036.webp",
+      "sourceBytes": 8300,
+      "bytes": 2104,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "b9b8a63279c384317ad94184d95bddb9b3d026512b102b3dd095ba2a6d496126",
+      "source": "original-cdn/soul-weapons/soul-036.webp"
+    },
+    {
+      "path": "soul-weapons/soul-037.webp",
+      "sourceBytes": 7048,
+      "bytes": 2364,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "d69185bec0897de4df8a5db1bd51c7d9535f6b17fee569f7ecec2eae00144280",
+      "source": "original-cdn/soul-weapons/soul-037.webp"
+    },
+    {
+      "path": "soul-weapons/soul-038.webp",
+      "sourceBytes": 8392,
+      "bytes": 2264,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "b940a384f4b8ad6f7f258db4906443a71b5bd32a98883672ace7fe71d49f7ac5",
+      "source": "original-cdn/soul-weapons/soul-038.webp"
+    },
+    {
+      "path": "soul-weapons/soul-039.webp",
+      "sourceBytes": 7978,
+      "bytes": 2068,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "83d5d11d963ba1adef28ec17223f9a75b6ce6e4dd362113b8f10bb8fab9d77b2",
+      "source": "original-cdn/soul-weapons/soul-039.webp"
+    },
+    {
+      "path": "soul-weapons/soul-040.webp",
+      "sourceBytes": 5410,
+      "bytes": 1924,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "85ae9f24c33a95b88c927536095530c5a1f783fea671776893b668841c3645fe",
+      "source": "original-cdn/soul-weapons/soul-040.webp"
+    },
+    {
+      "path": "soul-weapons/soul-041.webp",
+      "sourceBytes": 7338,
+      "bytes": 1854,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "c1c21fd7bb6e38d1ba6d7082943d2c5cea2f7d73417824305f43a43651bc2cc2",
+      "source": "original-cdn/soul-weapons/soul-041.webp"
+    },
+    {
+      "path": "soul-weapons/soul-042.webp",
+      "sourceBytes": 7940,
+      "bytes": 1774,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "b821cbb884bb9239fd6675fc4d4280cd396b99e3fe707465caf2537d1450cd80",
+      "source": "original-cdn/soul-weapons/soul-042.webp"
+    },
+    {
+      "path": "soul-weapons/soul-043.webp",
+      "sourceBytes": 8478,
+      "bytes": 2164,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "06ef4c2aff0ff497424a8010bbf0996935e47b931d95103982f0c796bd8c4552",
+      "source": "original-cdn/soul-weapons/soul-043.webp"
+    },
+    {
+      "path": "soul-weapons/soul-044.webp",
+      "sourceBytes": 8534,
+      "bytes": 2154,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "a0ba4cdabcda9601f55a7168fe066a82094b4316a03af10ce5a161a3272d522f",
+      "source": "original-cdn/soul-weapons/soul-044.webp"
+    },
+    {
+      "path": "soul-weapons/soul-045.webp",
+      "sourceBytes": 6814,
+      "bytes": 2180,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "772d3dbe77cedfd8a315fa8a8a894b62720a1d526ad0a12d7661e58eba540f7d",
+      "source": "original-cdn/soul-weapons/soul-045.webp"
+    },
+    {
+      "path": "soul-weapons/soul-046.webp",
+      "sourceBytes": 6590,
+      "bytes": 1838,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "01e93a3adac59e24d9813610cd45b6c4c210571e6e88f90ed8bd9fda8ed15490",
+      "source": "original-cdn/soul-weapons/soul-046.webp"
+    },
+    {
+      "path": "soul-weapons/soul-047.webp",
+      "sourceBytes": 12536,
+      "bytes": 3378,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "45d636482898113030d1b9123086836dbcba0c78b6c23df1134122874af104fc",
+      "source": "original-cdn/soul-weapons/soul-047.webp"
+    },
+    {
+      "path": "soul-weapons/soul-048.webp",
+      "sourceBytes": 8676,
+      "bytes": 1758,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "70f7553a32f6db05ace2092cad74824f25d35730b14928f2d96fec088760fe84",
+      "source": "original-cdn/soul-weapons/soul-048.webp"
+    },
+    {
+      "path": "soul-weapons/soul-049.webp",
+      "sourceBytes": 1088,
+      "bytes": 2402,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "5ca43dcfb783737e3f1faca16941af7fa1ff944e3bc98cc2fcd0a29034a37aae",
+      "source": "original-cdn/soul-weapons/soul-049.webp"
+    },
+    {
+      "path": "soul-weapons/soul-050.webp",
+      "sourceBytes": 8520,
+      "bytes": 1914,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "acda5c90adaf95b3b62c6fb45f51da0d8a2d9d6fd1cded87a23e6d9ed9a0417b",
+      "source": "original-cdn/soul-weapons/soul-050.webp"
+    },
+    {
+      "path": "soul-weapons/soul-051.webp",
+      "sourceBytes": 7214,
+      "bytes": 1228,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "f0709b63938b51aa5cc036ee89881541c752877cc7ac55be92b67c622f4f8f0f",
+      "source": "original-cdn/soul-weapons/soul-051.webp"
+    },
+    {
+      "path": "soul-weapons/soul-052.webp",
+      "sourceBytes": 978,
+      "bytes": 2152,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "46af9f6e66f1874d42804c40714015319cf2df8e88738628c578e442ba4d4ca8",
+      "source": "original-cdn/soul-weapons/soul-052.webp"
+    },
+    {
+      "path": "soul-weapons/soul-053.webp",
+      "sourceBytes": 7490,
+      "bytes": 1762,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "36864439f0520d3b10ee1c7f4b5e38550215becc5769ab61e2b53659703491e5",
+      "source": "original-cdn/soul-weapons/soul-053.webp"
+    },
+    {
+      "path": "soul-weapons/soul-054.webp",
+      "sourceBytes": 1148,
+      "bytes": 1816,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "6254ae2634a8fbf2c7dafbfad28acb2f1a19c64cccd3d78cf67690e2613fca0c",
+      "source": "original-cdn/soul-weapons/soul-054.webp"
+    },
+    {
+      "path": "soul-weapons/soul-055.webp",
+      "sourceBytes": 992,
+      "bytes": 2380,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "c3aec8c3fc1aa4a46c8fb693e568635ac2c4f1855ee241e4985526e8a206ae88",
+      "source": "original-cdn/soul-weapons/soul-055.webp"
+    },
+    {
+      "path": "soul-weapons/soul-056.webp",
+      "sourceBytes": 7676,
+      "bytes": 2506,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "f443d2a4e3b6a5655e9aa610bf3de59c5aace72ec853983d8ba5e2d8b07c357d",
+      "source": "original-cdn/soul-weapons/soul-056.webp"
+    },
+    {
+      "path": "soul-weapons/soul-057.webp",
+      "sourceBytes": 7614,
+      "bytes": 1954,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "9c2edc899ce74b4837bc63eb716fd71a66116fbecce2c376239360823fa3f8d6",
+      "source": "original-cdn/soul-weapons/soul-057.webp"
+    },
+    {
+      "path": "soul-weapons/soul-058.webp",
+      "sourceBytes": 5652,
+      "bytes": 1834,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "0ae7e9fb44d9c5c8bc21feae70ea8d09bd056970a81b4773c5369cd270363577",
+      "source": "original-cdn/soul-weapons/soul-058.webp"
+    },
+    {
+      "path": "soul-weapons/soul-059.webp",
+      "sourceBytes": 590,
+      "bytes": 1608,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "cf84f39c66efc6a1f0eed9d184e1de1106533f2aea3784e67b5ad66762cdd362",
+      "source": "original-cdn/soul-weapons/soul-059.webp"
+    },
+    {
+      "path": "soul-weapons/soul-060.webp",
+      "sourceBytes": 8192,
+      "bytes": 1818,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "74c9d1e7a96009ab47a7591340ea166acb7904dbee7802a679bbfc16ea0b0ae2",
+      "source": "original-cdn/soul-weapons/soul-060.webp"
+    },
+    {
+      "path": "soul-weapons/soul-061.webp",
+      "sourceBytes": 8016,
+      "bytes": 1836,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "1c266caa1ba667306ee79439adf75a8fc636291662963e3b9d342104f7982f22",
+      "source": "original-cdn/soul-weapons/soul-061.webp"
+    },
+    {
+      "path": "soul-weapons/soul-062.webp",
+      "sourceBytes": 5630,
+      "bytes": 1584,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "51c628c9d63fd208d60e960251b3b6b5102c3a631b91a228fb7aa1ff21b24452",
+      "source": "original-cdn/soul-weapons/soul-062.webp"
+    },
+    {
+      "path": "soul-weapons/soul-063.webp",
+      "sourceBytes": 5220,
+      "bytes": 1706,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "cd4866a85ac192d6654df484caf69b25c7e8741015a269927473d9d99e56d63d",
+      "source": "original-cdn/soul-weapons/soul-063.webp"
+    },
+    {
+      "path": "soul-weapons/soul-064.webp",
+      "sourceBytes": 3282,
+      "bytes": 1348,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "57521cdbd8536979a6d0697800b9d41a7389347f307b9aa7204427c9ccfec3a8",
+      "source": "original-cdn/soul-weapons/soul-064.webp"
+    },
+    {
+      "path": "soul-weapons/soul-065.webp",
+      "sourceBytes": 6974,
+      "bytes": 1536,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "3c0e1fd1ae40c7297f635d3095a76462cd72272f57d7d4c09adfd472b78e7644",
+      "source": "original-cdn/soul-weapons/soul-065.webp"
+    },
+    {
+      "path": "soul-weapons/soul-066.webp",
+      "sourceBytes": 5644,
+      "bytes": 1646,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "02866ab35690b909b91bf3d954034502ce1aac310c1a25182392dcbab820cdf3",
+      "source": "original-cdn/soul-weapons/soul-066.webp"
+    },
+    {
+      "path": "soul-weapons/soul-067.webp",
+      "sourceBytes": 7490,
+      "bytes": 2456,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "1601d2c2e8d73915736f06734ae115d252c1bfe314a3f2d1c1a06dc2c2715698",
+      "source": "original-cdn/soul-weapons/soul-067.webp"
+    },
+    {
+      "path": "soul-weapons/soul-068.webp",
+      "sourceBytes": 5636,
+      "bytes": 1722,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "ba08a6b0f7eeda792a1e30558f5ea1546a4e4d00632d33a0d5935dc0814da559",
+      "source": "original-cdn/soul-weapons/soul-068.webp"
+    },
+    {
+      "path": "soul-weapons/soul-069.webp",
+      "sourceBytes": 6352,
+      "bytes": 1954,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "de77031e4345e07b65a9fa07977721d9c5d13f8f72e194fb228f93c27e15dc0c",
+      "source": "original-cdn/soul-weapons/soul-069.webp"
+    },
+    {
+      "path": "soul-weapons/soul-070.webp",
+      "sourceBytes": 7082,
+      "bytes": 2466,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "1fe0dce6796cba6cea9775534b11cb4337af1db91817588e47007602bf957506",
+      "source": "original-cdn/soul-weapons/soul-070.webp"
+    },
+    {
+      "path": "soul-weapons/soul-071.webp",
+      "sourceBytes": 4924,
+      "bytes": 1380,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "86b03c03b7d8baecfd0e7bc22fee974bcf4e3bb6263073d244c493e26c5b77aa",
+      "source": "original-cdn/soul-weapons/soul-071.webp"
+    },
+    {
+      "path": "soul-weapons/soul-072.webp",
+      "sourceBytes": 8888,
+      "bytes": 2048,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "073fb2225dda5b95cbe4e0166872acbb7cc73033d79f0d101162819b65236cdd",
+      "source": "original-cdn/soul-weapons/soul-072.webp"
+    },
+    {
+      "path": "soul-weapons/soul-073.webp",
+      "sourceBytes": 5978,
+      "bytes": 1872,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "652a3c0bd8e990c919260a6b586af14c456d5c426cf91f02b4797df18ea8aef8",
+      "source": "original-cdn/soul-weapons/soul-073.webp"
+    },
+    {
+      "path": "soul-weapons/soul-074.webp",
+      "sourceBytes": 5688,
+      "bytes": 1910,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "0b32a2a81b442496c3390e5c698e84f4cf52e39411b92d52b82bfa17c61be06e",
+      "source": "original-cdn/soul-weapons/soul-074.webp"
+    },
+    {
+      "path": "soul-weapons/soul-075.webp",
+      "sourceBytes": 4874,
+      "bytes": 1902,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "95692b6d2f9231e6c6c1c4d288bb3003f5feef8c066a9aafa323e1ea40f8bd81",
+      "source": "original-cdn/soul-weapons/soul-075.webp"
+    },
+    {
+      "path": "soul-weapons/soul-076.webp",
+      "sourceBytes": 9114,
+      "bytes": 3120,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "fa36c00a30a4b46a482ceb0832ea8e82997470452e4e62f28e429240502c4618",
+      "source": "original-cdn/soul-weapons/soul-076.webp"
+    },
+    {
+      "path": "soul-weapons/soul-077.webp",
+      "sourceBytes": 7360,
+      "bytes": 2254,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "d0b24835267e097e7ff40482b9a0cd63ea9e9a7e80a62b3414dab22faad7cea5",
+      "source": "original-cdn/soul-weapons/soul-077.webp"
+    },
+    {
+      "path": "soul-weapons/soul-078.webp",
+      "sourceBytes": 8276,
+      "bytes": 2010,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "2ae43f71331aeb1da15bf0873bdb48c2378627c673cfd7f0dc5a9a073db67e3d",
+      "source": "original-cdn/soul-weapons/soul-078.webp"
+    },
+    {
+      "path": "soul-weapons/soul-079.webp",
+      "sourceBytes": 5962,
+      "bytes": 1794,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "174043c63cfd4564b3e53b85b75e014c9578ea16b788b64ebba94fd0d510d0b8",
+      "source": "original-cdn/soul-weapons/soul-079.webp"
+    },
+    {
+      "path": "soul-weapons/soul-080.webp",
+      "sourceBytes": 4770,
+      "bytes": 1664,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "e15c9e67383a3102f555ee0faf14491e8c44d6eacfc3d145d1f31dfca973ae9a",
+      "source": "original-cdn/soul-weapons/soul-080.webp"
+    },
+    {
+      "path": "soul-weapons/soul-081.webp",
+      "sourceBytes": 7130,
+      "bytes": 1652,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "cad2f24dcea4b045ee9814c30720f712e9a325b672a25cbc22f984d75fd39e85",
+      "source": "original-cdn/soul-weapons/soul-081.webp"
+    },
+    {
+      "path": "soul-weapons/soul-082.webp",
+      "sourceBytes": 2190,
+      "bytes": 910,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "c78a8df27d054d1a9c580cadfe10bb18fd5b05df57b10c461691a173e8ff5eed",
+      "source": "original-cdn/soul-weapons/soul-082.webp"
+    },
+    {
+      "path": "soul-weapons/soul-083.webp",
+      "sourceBytes": 1976,
+      "bytes": 814,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "f0af4579429d1fc79853e1b0add92d98a599509509d46db0012584ab8c479d03",
+      "source": "original-cdn/soul-weapons/soul-083.webp"
+    },
+    {
+      "path": "soul-weapons/soul-084.webp",
+      "sourceBytes": 1812,
+      "bytes": 676,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "002741fe56b6dc18c6e41149b276232770664b0f14eb8d52c7acdedd955bb22a",
+      "source": "original-cdn/soul-weapons/soul-084.webp"
+    },
+    {
+      "path": "soul-weapons/soul-085.webp",
+      "sourceBytes": 2110,
+      "bytes": 888,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "18dabb4ae6142069c290fb17b716512c78036ad142604ba6737a1bc47b9e4249",
+      "source": "original-cdn/soul-weapons/soul-085.webp"
+    },
+    {
+      "path": "soul-weapons/soul-086.webp",
+      "sourceBytes": 2222,
+      "bytes": 1016,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "aeca032818a75e9252bcf34d3fae41d22bc7278c33d282fe7d7add4cfb1d06ee",
+      "source": "original-cdn/soul-weapons/soul-086.webp"
+    },
+    {
+      "path": "soul-weapons/soul-087.webp",
+      "sourceBytes": 1826,
+      "bytes": 740,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "1587f4c9b8eb38996502b8aed9a56d6246f8811adf52e6b596a93b297db204bf",
+      "source": "original-cdn/soul-weapons/soul-087.webp"
+    },
+    {
+      "path": "soul-weapons/soul-088.webp",
+      "sourceBytes": 2174,
+      "bytes": 1002,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "d411774927d2f405cae598c245b409ad47b0ee03ce289b8a918181ec11a48471",
+      "source": "original-cdn/soul-weapons/soul-088.webp"
+    },
+    {
+      "path": "soul-weapons/soul-089.webp",
+      "sourceBytes": 2162,
+      "bytes": 876,
+      "width": 96,
+      "height": 96,
+      "quality": 72,
+      "sha256": "2578a0accc2043f23b74ea9e9fa665457e369262e93093b0fcede844058733e3",
+      "source": "original-cdn/soul-weapons/soul-089.webp"
+    },
+    {
+      "path": "spirits/ake.webp",
+      "sourceBytes": 25658,
+      "bytes": 2466,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "72e0f9df58a5b21983ff5be1c63fa97cbf07498b806dc65766be8d72bb190471",
+      "source": "original-cdn/spirits/ake.webp"
+    },
+    {
+      "path": "spirits/bao.webp",
+      "sourceBytes": 16202,
+      "bytes": 1054,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "58b7f861d4cc28687906ddc439c3f68b68d7c7f4ce7cc0f23391ef4e8f8e9f34",
+      "source": "original-cdn/spirits/bao.webp"
+    },
+    {
+      "path": "spirits/hertz.webp",
+      "sourceBytes": 25322,
+      "bytes": 2024,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "8d6286107b970e48ae4128770158eeca19c773e057939e94019de4ed2ea2dc50",
+      "source": "original-cdn/spirits/hertz.webp"
+    },
+    {
+      "path": "spirits/kate.webp",
+      "sourceBytes": 27204,
+      "bytes": 2444,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "e64161d0f645e91e98cd136e7c37ea57038e90715a1422305c0bd56477b4af9d",
+      "source": "original-cdn/spirits/kate.webp"
+    },
+    {
+      "path": "spirits/loar.webp",
+      "sourceBytes": 17286,
+      "bytes": 1456,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "0e55b63405cf0789ad59199c985afa7ef6e45f66a6e5170aed466711fa24b3c3",
+      "source": "original-cdn/spirits/loar.webp"
+    },
+    {
+      "path": "spirits/lujia.webp",
+      "sourceBytes": 27430,
+      "bytes": 2806,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "c025f7352312f07cc9ee16d2e5ed735cf315af4d58c2f1cb0213e11258dfb771",
+      "source": "original-cdn/spirits/lujia.webp"
+    },
+    {
+      "path": "spirits/noah.webp",
+      "sourceBytes": 18130,
+      "bytes": 1454,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "c66c1965bb39278a1d149d858fcda91f3e63cce287f471be08f3798e47406c47",
+      "source": "original-cdn/spirits/noah.webp"
+    },
+    {
+      "path": "spirits/raton.webp",
+      "sourceBytes": 24072,
+      "bytes": 2382,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "e9c4ad501ddc6006d8c52f35ead0f446df19df0072959ae1336d9f47a0fec48b",
+      "source": "original-cdn/spirits/raton.webp"
+    },
+    {
+      "path": "spirits/sala.webp",
+      "sourceBytes": 21090,
+      "bytes": 1762,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "d2abf1bd62a178b5a5bbd9bff06d2148c3a36e644671e6c27d1084ace5872fcb",
+      "source": "original-cdn/spirits/sala.webp"
+    },
+    {
+      "path": "spirits/todd.webp",
+      "sourceBytes": 24844,
+      "bytes": 2352,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "fd3eb90f81e5c02cb919c2587e3a15c946f14e5a6b5bf3e6eed932c1671f59ad",
+      "source": "original-cdn/spirits/todd.webp"
+    },
+    {
+      "path": "spirits/wood-horse.webp",
+      "sourceBytes": 23880,
+      "bytes": 2534,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "b6f80f0e472f63a87de68125618e5cfcca1c8ef734fb0111a709843c2991738f",
+      "source": "original-cdn/spirits/wood-horse.webp"
+    },
+    {
+      "path": "spirits/zephyr.webp",
+      "sourceBytes": 23678,
+      "bytes": 2060,
+      "width": 96,
+      "height": 98,
+      "quality": 72,
+      "sha256": "0ea39c1bff112b4291514f516d5e6ee391109c36f6619b93b089599a9a414dc9",
+      "source": "original-cdn/spirits/zephyr.webp"
+    },
+    {
+      "path": "visuals/slayer.webp",
+      "sourceBytes": 8381,
+      "bytes": 2580,
+      "width": 110,
+      "height": 92,
+      "quality": 78,
+      "sha256": "82ae3d34df00c079bbdbdc38b0151ac0674d373b07609be4d73e0bb6b80d8420",
+      "source": "HERO:export/sprites/hero/warrior_1003_0__3304278838414812501.png"
+    },
+    {
+      "path": "ui/profile.webp",
+      "sourceBytes": 7646,
+      "bytes": 1890,
+      "width": 64,
+      "height": 50,
+      "quality": 74,
+      "sha256": "e79ffee8e3893e77b0ce4fe8cefbbf613a541a1da2924138e1eb63b8fa18badc",
+      "source": "HERO:export/sprites/hero/warrior_01_0__4740057854139464756.png"
+    },
+    {
+      "path": "ui/companions.webp",
+      "sourceBytes": 6245,
+      "bytes": 2414,
+      "width": 57,
+      "height": 64,
+      "quality": 74,
+      "sha256": "937dd41e1d3a8e5475569d1665ddf9f7df7c4ebd346c5cebadfe2b71aaf6047f",
+      "source": "HERO:export/sprites/hero/archer_01_0__5505143482632349920.png"
+    },
+    {
+      "path": "visuals/night-journey.webp",
+      "sourceBytes": 157905,
+      "bytes": 11796,
+      "width": 512,
+      "height": 256,
+      "quality": 58,
+      "sha256": "9f345dd5eb84236ee3a85d997ec3cf2e80c1e16aa84002cbf46854f800c8c170",
+      "source": "POPUP:export/sprites/popup/SubCampaign_ninja_EDillust__6979842693056625790.png"
+    },
+    {
+      "path": "ui/weapons.webp",
+      "sourceBytes": 13474,
+      "bytes": 1380,
+      "width": 80,
+      "height": 18,
+      "quality": 76,
+      "sha256": "12d9bc05f503ea8b162e36ca9f6fa6f2ecccfecbbe49c59e6ae5e95b46da91b9",
+      "source": "POPUP:export/sprites/popup/UI_PromotionPackagebundle_Equipments_Image_6__7142564141466508697.png"
+    },
+    {
+      "path": "ui/accessories.webp",
+      "sourceBytes": 5364,
+      "bytes": 2376,
+      "width": 63,
+      "height": 64,
+      "quality": 74,
+      "sha256": "dc65b61ad5fb2518969a1415cb2bbccadd3a79781e38adc3a67184b28553c309",
+      "source": "POPUP:export/sprites/popup/UI_PromotionPackagebundle_Equipments_Image_4__-9201453684411360510.png"
+    },
+    {
+      "path": "ui/black-orb.webp",
+      "sourceBytes": 11862,
+      "bytes": 2060,
+      "width": 64,
+      "height": 63,
+      "quality": 74,
+      "sha256": "6723f6d7156d6f6c4142112048bc261e157c9bd7bdbced657c9e0ce81fee8a58",
+      "source": "POPUP:export/sprites/popup/icon_BlackOrb__-9165899475149392174.png"
+    },
+    {
+      "path": "ui/class.webp",
+      "sourceBytes": 3945,
+      "bytes": 1572,
+      "width": 64,
+      "height": 64,
+      "quality": 74,
+      "sha256": "eb0350ca7cbdb7970bdb112d4a49c4e1818e3badbad70425c3198f8bf018cce8",
+      "source": "POPUP:export/sprites/popup/Goods_SummonSlayerClass__-5810148306422049710.png"
+    },
+    {
+      "path": "ui/skills.webp",
+      "sourceBytes": 4338,
+      "bytes": 1482,
+      "width": 60,
+      "height": 64,
+      "quality": 74,
+      "sha256": "b274c1075ea33ef39a9591a982b46daaa57dd5541bac72621574c0da027358aa",
+      "source": "POPUP:export/sprites/popup/icon_skillproficiency__-8091120938181284198.png"
+    },
+    {
+      "path": "ui/familiars.webp",
+      "sourceBytes": 4252,
+      "bytes": 1608,
+      "width": 53,
+      "height": 64,
+      "quality": 74,
+      "sha256": "49530be4172a3528654ab97c83d87c00b389769615de5d0fbbe603d704adc92d",
+      "source": "POPUP:export/sprites/popup/DemonIcon_Mastery__-6412369849271729909.png"
+    },
+    {
+      "path": "ui/cook.webp",
+      "sourceBytes": 770,
+      "bytes": 306,
+      "width": 41,
+      "height": 34,
+      "quality": 78,
+      "sha256": "70940bc24f1d950fb535aadf43743bfbf96b0bdb2b9f7e6df84f99903d8c3c6a",
+      "source": "POPUP:export/sprites/popup/Icon_DragonValleyCook__-5654066309634611643.png"
+    },
+    {
+      "path": "visuals/chef.webp",
+      "sourceBytes": 6891,
+      "bytes": 2098,
+      "width": 54,
+      "height": 112,
+      "quality": 78,
+      "sha256": "24e34c01793004d412c6b13b31e6b3a161b5854e7071eb3c5e63559a18997fc2",
+      "source": "POPUP:export/sprites/popup/SpecialCook_Npc_0_3__-4134807388882297654.png"
+    }
+  ]
+}
